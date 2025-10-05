@@ -14,9 +14,9 @@ for our SIH 2025 prototype – **Namast AI**, an **offline facial-recognition-ba
 ## 🎬 Demonstration Videos
 Click below to view directly on GitHub (no download required):
 
-- [Video 1 – Registration & Attendance](./SmartTrack - Attendance System Prototype.mp4)  
-- [Video 2 – Manual Correction & Analytics](./Live Attendance demonstration.mp4)  
-- [Video 3 – Offline Sync & Reporting](./Analytics Demonstration (1).mp4)
+- [Video 1 – Registration & Attendance](./video1.mp4)
+- [Video 2 – Manual Correction & Analytics](./video2.mp4)
+- [Video 3 – Offline Sync & Reporting](./video3.mp4)
 
 ---
 
