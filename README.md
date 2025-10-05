@@ -11,6 +11,15 @@ for our SIH 2025 prototype – **Namast AI**, an **offline facial-recognition-ba
 
 ---
 
+## 🎬 Demonstration Videos
+Click below to view directly on GitHub (no download required):
+
+- [Video 1 – Registration & Attendance](./SmartTrack - Attendance System Prototype.mp4)  
+- [Video 2 – Manual Correction & Analytics](./Live Attendance demonstration.mp4)  
+- [Video 3 – Offline Sync & Reporting](./Analytics Demonstration (1).mp4)
+
+---
+
 ## 🌐 Prototype (Live Demo)
 **Website:** [https://smarttrack-r4uy.onrender.com/](https://smarttrack-r4uy.onrender.com/)  
 
@@ -18,10 +27,10 @@ for our SIH 2025 prototype – **Namast AI**, an **offline facial-recognition-ba
 > The demo is hosted on **Render (Free Tier)**.  
 > It may take **30–60 seconds** to load on the first visit after inactivity.  
 > Performance may vary due to limited CPU and memory.  
-> Upload speed (embeddings/videos) also depends on internet connection.  
+> Uploads (embeddings/videos) also depend on internet speed.  
 >
-> For easier evaluation, please refer to the **video demonstrations** available in the  
-> Google Drive folder and this GitHub repository.
+> For easier evaluation, please refer to the **video demonstrations** above  
+> or in the Google Drive folder provided.
 
 ✅ This is **only a prototype** for demonstration.  
 In actual deployment, it runs **offline** on **low-cost Android phones** and **school PCs**.
