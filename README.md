@@ -1,48 +1,66 @@
-# Namast AI – SMART INDIA HACKATHON 2025
+## 🌐 Live Prototype (Click to Open)
+### **✅ https://huggingface.co/spaces/samdarshi-parihar/SmartTrack**
+---
+# 🚀 Namast AI – SMART INDIA HACKATHON 2025  
+**Smart, Offline Attendance System for Rural Schools**
+---
 
-### Problem Statement: SIH25012 – Automated Attendance System for Rural Schools  
-**Theme:** Smart Education | **Team Name:** Namast AI | **Team ID:** 77263  
+
+> **Instant Access · No Slow Startup · Optimized Demo Environment**
 
 ---
 
-## 🔹 About
-This repository contains **demonstration and fallback files** (videos, document, etc.)  
-for our SIH 2025 prototype – **Namast AI**, an **offline facial-recognition-based attendance system** for rural schools.
+## 🏫 Problem Statement
+**SIH25012 – Automated Attendance System for Rural Schools**  
+**Theme:** Smart Education  
+**Team Name:** Namast AI  
+**Team ID:** 77263  
 
 ---
 
-## 🎬 Demonstration Videos
-Click below to view directly on GitHub (no download required):
+## ✨ What is Namast AI?
+Namast AI is a **facial-recognition-based attendance system** designed for **rural and low-connectivity environments**.
 
-- [Video 1 – Registration & Attendance](./video1.mp4)
-- [Video 2 – Manual Correction & Analytics](./video2.mp4)
-- [Video 3 – Offline Sync & Reporting](./video3.mp4)
-
----
-
-## 🌐 Prototype (Live Demo)
-**Website:** [https://smarttrack-r4uy.onrender.com/](https://smarttrack-r4uy.onrender.com/)  
-
-> ⚠️ **Note:**  
-> The demo is hosted on **Render (Free Tier)**.  
-> It may take **30–60 seconds** to load on the first visit after inactivity.  
-> Performance may vary due to limited CPU and memory.  
-> Uploads (embeddings/videos) also depend on internet speed.  
->
-> For easier evaluation, please refer to the **video demonstrations** above  
-> or in the Google Drive folder provided.
-
-✅ This is **only a prototype** for demonstration.  
-In actual deployment, it runs **offline** on **low-cost Android phones** and **school PCs**.
+- Works **offline** on **low-cost devices**  
+- Synchronizes data when internet becomes available  
+- Supports teachers, students & administrators with analytics  
+- Zero dependency on external cloud during operation
 
 ---
 
-## 📞 Contact
-**Team Namast AI**  
-👤 **Samdarshi Parihar**  
-📱 +91 9926746647  
-📧 [ankuparihar05@gmail.com](mailto:ankuparihar05@gmail.com)
+## 🎥 Demonstration Videos (Instant Viewing)
+| Demo | Description | Link |
+|------|-------------|------|
+| **Video 1** | Student Registration & Face Capture | `video1.mp4` |
+| **Video 2** | Attendance Marking + Manual Override | `video2.mp4` |
+| **Video 3** | Offline Sync + Report Generation | `video3.mp4` |
+
+_All videos can also be found in the shared Google Drive folder._
 
 ---
 
-_Thank you – Team Namast AI_
+## 🌍 Previous Render Demo (Fallback)
+**(Slower to load — used only as backup)**  
+https://smarttrack-r4uy.onrender.com/
+
+> May take **30–60 seconds** to load — Free Tier Limitation.
+
+---
+
+## 🧠 Key Features
+- Face-based attendance with fallback to manual mark
+- Works in **offline-first** mode
+- Class & subject-level dashboards
+- Printable PDF attendance summaries
+- Engagement & participation scoring indicators
+
+---
+
+## 👥 Team Namast AI
+**Samdarshi Parihar (Team Lead)**  
+📞 +91 9926746647  
+📧 ankuparihar05@gmail.com  
+
+---
+
+_Thank you for reviewing our solution — **Namast AI** ✨_
