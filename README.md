@@ -1,12 +1,13 @@
 ## 🌐 Live Prototype (Click to Open)
 ### **✅ https://huggingface.co/spaces/samdarshi-parihar/SmartTrack**
+> **Instant Access · No Slow Startup · Optimized Demo Environment**
 ---
 # 🚀 Namast AI – SMART INDIA HACKATHON 2025  
 **Smart, Offline Attendance System for Rural Schools**
 ---
 
 
-> **Instant Access · No Slow Startup · Optimized Demo Environment**
+
 
 ---
 
